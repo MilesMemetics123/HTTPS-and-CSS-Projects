@@ -1,0 +1,39 @@
+Body { 
+    background-color: #fff;
+
+}
+h1 {
+    color: rgba"3,131,252,24";
+    margin-left: 100px;
+    text-shadow: 1px .5px 4px rgba"0,0,0,0.4";
+}
+
+
+.container {
+    width: 450px;
+    height: 450px;
+    background-color:rgb(153, 153, 153);
+    border: 2px solid black;
+    border-radius: 54;
+
+}
+/*Select all squares in the array*/
+.container .squares:nth-child(-n-4) {
+    background-image: url("../../icons2.png");
+     color:#fff;
+     float: left;
+     width: 100px;
+     height: 100px;
+     margin: 5px;
+     border: 1px solid black;
+     border-radius: 25%;
+     cursor: pointer;
+}
+
+
+
+
+}
+
+
+
